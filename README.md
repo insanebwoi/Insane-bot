@@ -34,7 +34,7 @@ $ git clone https://github.com/insanebwoi/Insane-bot
 $ cd Insane-bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node insane.js
 ```
       
 ```js
@@ -42,7 +42,7 @@ SETUP
 $ git clone https://github.com/insanebwoi/Insane-bot
 $ cd Insane-bot
 $ npm i
-$ node julie.js
+$ node insane.js
 ```
 
 ----
