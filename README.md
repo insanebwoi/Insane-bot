@@ -82,7 +82,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Farhan-Dqz](https://i.imgur.com/BiLC1Ik.jpeg?size=100)](https://github.com/insanebwoi) | [![TOXIC-DEVIL](https://i.imgur.com/B5KVzI6.jpeg?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
 [Insane-bwoi](https://github.com/insanebwoi) | [WHITE-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+Re-modifier, Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
 
