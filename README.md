@@ -5,7 +5,7 @@
 <a href="#"><img title="Insane bot" src="https://img.shields.io/badge/Insane bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-Ihsan-ins/JulieMwol?color=darkblue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-INSANE BOY-ins/JulieMwol?color=darkblue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
