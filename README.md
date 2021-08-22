@@ -31,7 +31,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/insanebwoi/Insane-bot
-$ cd Julie-Mwol
+$ cd Insane-bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -40,7 +40,7 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/insanebwoi/Insane-bot
-$ cd JulieMwol
+$ cd Insane-bot
 $ npm i
 $ node julie.js
 ```
