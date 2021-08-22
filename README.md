@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/insanebwoi">Insane-boy</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/insanebwoi/Julie-Mwol
+$ git clone https://github.com/insanebwoi/Insane-bot
 $ cd Julie-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -39,7 +39,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/insanebwoi/Julie-Mwol
+$ git clone https://github.com/insanebwoi/Insane-bot
 $ cd JulieMwol
 $ npm i
 $ node julie.js
